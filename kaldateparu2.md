@@ -5,7 +5,7 @@
 ## 👤 About Me
 * **Name:** paru kaldate
 * **City:** Pune, Maharashtra
-* **Email:** [shrutishinde9117@gmail.com]
+* **Email:** [parukaldate9117@gmail.com]
 
 ---
 
