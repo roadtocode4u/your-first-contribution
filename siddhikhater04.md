@@ -1,7 +1,7 @@
 ##  About Me
 ![siddhikhater04](https://avatars.githubusercontent.com/u/251959806?v=4)
 ___
-Hello! I'm **Siddhi Khater**, a second-year B.Sc. Computer Science student. I am passionate about technology and enjoy learning new things related to programming and web development.
+Hello! I'm **Siddhi Khater**, a second-year B.Sc. Computer Science student. I am passionate about technology and enjoy learning new things related to programming and web development.My goal is to become a skilled developer and continuously grow in the world of technology. 🚀
 ___
 🎓 **Education**
 
